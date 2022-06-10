@@ -1,5 +1,7 @@
 # Deep-Learning-Hackathon-Techsoc-2021
 
+Achieved highest accuracy in the competition and finished 2nd overall
+
 # Approach
 
 Drive link containing the weights and the csv files: [link](https://drive.google.com/drive/folders/16B7f3Uz749Yhh93kKAq5SB1afJluyVEi?usp=sharing)
